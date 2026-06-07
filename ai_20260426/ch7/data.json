@@ -1,0 +1,14 @@
+{
+ "people": [
+  {
+   "name": "Scott",
+   "website": "www.com.tw",
+   "from": "Nebraska"
+  },
+  {
+   "name": "Lindy",
+   "website": "www.com.lindy",
+   "from": "Michigan"
+  }
+ ]
+}
